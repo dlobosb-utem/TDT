@@ -1,0 +1,877 @@
+PMID- 28082953
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 1664-302X (Print)
+IS  - 1664-302X (Electronic)
+IS  - 1664-302X (Linking)
+VI  - 7
+DP  - 2016
+TI  - Bioinformatic Analyses of Unique (Orphan) Core Genes of the Genus 
+      Acidithiobacillus: Functional Inferences and Use As Molecular Probes for Genomic 
+      and Metagenomic/Transcriptomic Interrogation.
+PG  - 2035
+LID - 10.3389/fmicb.2016.02035 [doi]
+LID - 2035
+AB  - Using phylogenomic and gene compositional analyses, five highly conserved gene 
+      families have been detected in the core genome of the phylogenetically coherent 
+      genus Acidithiobacillus of the class Acidithiobacillia. These core gene families 
+      are absent in the closest extant genus Thermithiobacillus tepidarius that 
+      subtends the Acidithiobacillus genus and roots the deepest in this class. The 
+      predicted proteins encoded by these core gene families are not detected by a 
+      BLAST search in the NCBI non-redundant database of more than 90 million proteins 
+      using a relaxed cut-off of 1.0e(-5). None of the five families has a clear 
+      functional prediction. However, bioinformatic scrutiny, using pI prediction, 
+      motif/domain searches, cellular location predictions, genomic context analyses, 
+      and chromosome topology studies together with previously published transcriptomic 
+      and proteomic data, suggests that some may have functions associated with 
+      membrane remodeling during cell division perhaps in response to pH stress. 
+      Despite the high level of amino acid sequence conservation within each family, 
+      there is sufficient nucleotide variation of the respective genes to permit the 
+      use of the DNA sequences to distinguish different species of Acidithiobacillus, 
+      making them useful additions to the armamentarium of tools for phylogenetic 
+      analysis. Since the protein families are unique to the Acidithiobacillus genus, 
+      they can also be leveraged as probes to detect the genus in environmental 
+      metagenomes and metatranscriptomes, including industrial biomining operations, 
+      and acid mine drainage (AMD).
+FAU - González, Carolina
+AU  - González C
+AD  - Center for Bioinformatics and Genome Biology, Fundación Ciencia & VidaSantiago, 
+      Chile; Facultad de Ciencias Biologicas, Universidad Andres BelloSantiago, Chile.
+FAU - Lazcano, Marcelo
+AU  - Lazcano M
+AD  - Center for Bioinformatics and Genome Biology, Fundación Ciencia & VidaSantiago, 
+      Chile; Facultad de Ciencias Biologicas, Universidad Andres BelloSantiago, Chile.
+FAU - Valdés, Jorge
+AU  - Valdés J
+AD  - Center for Genomics and Bioinformatics, Faculty of Sciences, Universidad Mayor 
+      Santiago, Chile.
+FAU - Holmes, David S
+AU  - Holmes DS
+AD  - Center for Bioinformatics and Genome Biology, Fundación Ciencia & VidaSantiago, 
+      Chile; Facultad de Ciencias Biologicas, Universidad Andres BelloSantiago, Chile.
+LA  - eng
+PT  - Journal Article
+DEP - 20161227
+PL  - Switzerland
+TA  - Front Microbiol
+JT  - Frontiers in microbiology
+JID - 101548977
+PMC - PMC5186765
+OTO - NOTNLM
+OT  - Acidithiobacillus
+OT  - Orphan (ORFan) genes
+OT  - Thermithiobacillus
+OT  - acid resistance
+OT  - biomining bioleaching and acid mine drainage (AMD)
+OT  - extreme acidophile
+OT  - horizontal gene transfer (HGT)
+OT  - metagenome and metatranscriptome
+EDAT- 2017/01/14 06:00
+MHDA- 2017/01/14 06:01
+PMCR- 2016/12/27
+CRDT- 2017/01/14 06:00
+PHST- 2016/10/10 00:00 [received]
+PHST- 2016/12/02 00:00 [accepted]
+PHST- 2017/01/14 06:00 [entrez]
+PHST- 2017/01/14 06:00 [pubmed]
+PHST- 2017/01/14 06:01 [medline]
+PHST- 2016/12/27 00:00 [pmc-release]
+AID - 10.3389/fmicb.2016.02035 [doi]
+PST - epublish
+SO  - Front Microbiol. 2016 Dec 27;7:2035. doi: 10.3389/fmicb.2016.02035. eCollection 
+      2016.
+
+PMID- 40301773
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250430
+LR  - 20250616
+IS  - 1471-230X (Electronic)
+IS  - 1471-230X (Linking)
+VI  - 25
+IP  - 1
+DP  - 2025 Apr 29
+TI  - Dysregulated gastric microbial communities and functional shifts in chronic 
+      atrophic versus non-atrophic gastritis: a Helicobacter pylori-Negative 
+      observational study.
+PG  - 304
+LID - 10.1186/s12876-025-03900-4 [doi]
+LID - 304
+AB  - BACKGROUND: Helicobacter pylori (H. pylori) infection was identified as a 
+      substantial risk factor for gastric cancer development, but the eradication of H. 
+      pylori did not necessarily lead to a reduction in the incidence of gastric 
+      cancer. Non-Helicobacter pylori (non-H. pylori) bacteria in the stomach are 
+      involved in the transformation of gastritis carcinoma. The aim of this study was 
+      to characterize the microbiome composition of the gastric mucosa and its 
+      functions in non-H. pylori (H. pylori-negative) patients with chronic atrophic 
+      gastritis (CAG) and chronic non-atrophic gastritis (CNAG). METHODS: Fourteen CNAG 
+      samples and twenty-three CAG samples were collected. The composition of the 
+      gastric microbiome was analyzed using 16 S rDNA gene sequencing. The 
+      bioinformatic analysis was performed using alpha and beta diversity analyses, 
+      PICRUSt2, and linear discriminant analysis effect size (LEfSe). RESULTS: The two 
+      groups shared the same most abundant bacterial phyla (Pseudomonadota, Bacillota, 
+      Actinomycetota, and Bacteroidota). The top 5 most abundant bacterial genera in 
+      the CAG group were Sphingomonas, Ralstonia, Brevundimonas, Methyloversatilis, and 
+      Pseudomonas. In the CNAG group, the top genera were Brevundimonas, Ralstonia, 
+      Sphingomonas, Methyloversatilis, and Acinetobacter. Differential analysis 
+      revealed distinct genera between groups: the CAG group showed enrichment in 
+      Sphingomonas, Ralstonia, Bradyrhizobium, Roseateles, and Acidithiobacillus, while 
+      the CNAG group was enriched in Brevundimonas, Rhodococcus, Hydrogenophaga, 
+      Bacteroides, and Leifsonia (p < 0.05). Sphingomonas exhibited a positive 
+      correlation with Acidithiobacillus but negative correlations with Brevundimonas, 
+      Hydrogenophaga, and Leifsonia. Pathways related to xenobiotic biodegradation, 
+      metabolism, signal transduction, cofactor/vitamin metabolism, cancer, infectious 
+      diseases, and digestive system were enriched in the CAG group. In contrast, the 
+      CNAG group showed enrichment in amino acid metabolism, translation, 
+      replication/repair, and terpenoid/polyketide metabolism. CONCLUSION: Gastric 
+      mucosal microbiota dysbiosis and functional shifts are significantly associated 
+      with chronic atrophic gastritis. Taxa such as Sphingomonas and Ralstonia, 
+      enriched in CAG patients, may indicate microbial signatures associated with early 
+      atrophic transition and provide candidates for further mechanistic validation.
+CI  - © 2025. The Author(s).
+FAU - Yao, Hong
+AU  - Yao H
+AD  - Guangzhou University of Chinese Medicine, Guangzhou, 510405, Guangdong, People's 
+      Republic of China.
+AD  - The Eighth Clinical Medical College of Guangzhou University of Chinese Medicine, 
+      Foshan, 528000, Guangdong, People's Republic of China.
+AD  - Foshan Hospital of Traditional Chinese Medicine, Foshan, 528000, Guangdong, 
+      People's Republic of China.
+FAU - Liu, Tingting
+AU  - Liu T
+AD  - The Eighth Clinical Medical College of Guangzhou University of Chinese Medicine, 
+      Foshan, 528000, Guangdong, People's Republic of China.
+AD  - Foshan Hospital of Traditional Chinese Medicine, Foshan, 528000, Guangdong, 
+      People's Republic of China.
+FAU - Chen, Yiming
+AU  - Chen Y
+AD  - The Eighth Clinical Medical College of Guangzhou University of Chinese Medicine, 
+      Foshan, 528000, Guangdong, People's Republic of China.
+AD  - Foshan Hospital of Traditional Chinese Medicine, Foshan, 528000, Guangdong, 
+      People's Republic of China.
+FAU - She, Ling
+AU  - She L
+AD  - The Eighth Clinical Medical College of Guangzhou University of Chinese Medicine, 
+      Foshan, 528000, Guangdong, People's Republic of China.
+AD  - Foshan Hospital of Traditional Chinese Medicine, Foshan, 528000, Guangdong, 
+      People's Republic of China.
+FAU - Wu, Tingfeng
+AU  - Wu T
+AD  - The Eighth Clinical Medical College of Guangzhou University of Chinese Medicine, 
+      Foshan, 528000, Guangdong, People's Republic of China.
+AD  - Foshan Hospital of Traditional Chinese Medicine, Foshan, 528000, Guangdong, 
+      People's Republic of China.
+FAU - Liu, Dongsong
+AU  - Liu D
+AD  - The Eighth Clinical Medical College of Guangzhou University of Chinese Medicine, 
+      Foshan, 528000, Guangdong, People's Republic of China.
+AD  - Foshan Hospital of Traditional Chinese Medicine, Foshan, 528000, Guangdong, 
+      People's Republic of China.
+FAU - Deng, Yuhong
+AU  - Deng Y
+AD  - The Eighth Clinical Medical College of Guangzhou University of Chinese Medicine, 
+      Foshan, 528000, Guangdong, People's Republic of China.
+AD  - Foshan Hospital of Traditional Chinese Medicine, Foshan, 528000, Guangdong, 
+      People's Republic of China.
+FAU - Han, Yubin
+AU  - Han Y
+AD  - The Eighth Clinical Medical College of Guangzhou University of Chinese Medicine, 
+      Foshan, 528000, Guangdong, People's Republic of China.
+AD  - Foshan Hospital of Traditional Chinese Medicine, Foshan, 528000, Guangdong, 
+      People's Republic of China.
+FAU - Chen, Kai
+AU  - Chen K
+AD  - The Eighth Clinical Medical College of Guangzhou University of Chinese Medicine, 
+      Foshan, 528000, Guangdong, People's Republic of China.
+AD  - Foshan Hospital of Traditional Chinese Medicine, Foshan, 528000, Guangdong, 
+      People's Republic of China.
+FAU - Deng, Jianmin
+AU  - Deng J
+AD  - The Eighth Clinical Medical College of Guangzhou University of Chinese Medicine, 
+      Foshan, 528000, Guangdong, People's Republic of China.
+AD  - Foshan Hospital of Traditional Chinese Medicine, Foshan, 528000, Guangdong, 
+      People's Republic of China.
+FAU - Zhang, Jue
+AU  - Zhang J
+AD  - The Eighth Clinical Medical College of Guangzhou University of Chinese Medicine, 
+      Foshan, 528000, Guangdong, People's Republic of China.
+AD  - Foshan Hospital of Traditional Chinese Medicine, Foshan, 528000, Guangdong, 
+      People's Republic of China.
+FAU - Chen, Jinfeng
+AU  - Chen J
+AD  - The Eighth Clinical Medical College of Guangzhou University of Chinese Medicine, 
+      Foshan, 528000, Guangdong, People's Republic of China. fscjf@sina.com.
+AD  - Foshan Hospital of Traditional Chinese Medicine, Foshan, 528000, Guangdong, 
+      People's Republic of China. fscjf@sina.com.
+FAU - Liu, Fengbin
+AU  - Liu F
+AD  - Lingnan Institute of Spleen and Stomach Diseases, The First Affiliated Hospital 
+      of Guangzhou University of Chinese Medicine, Guangzhou, 510405, Guangdong, 
+      People's Republic of China. liufengbin163@163.com.
+AD  - Baiyun Hospital of the First Affiliated Hospital of Guangzhou University of 
+      Chinese Medicine, Guangzhou, 510080, Guangdong, People's Republic of China. 
+      liufengbin163@163.com.
+LA  - eng
+GR  - 20233002/Foshan Hospital Of Traditional Chinese Medicine/
+GR  - 2220001005125/Foshan Science and Technology Bureau/
+GR  - 2220001005125/Foshan Science and Technology Bureau/
+GR  - 2220001005125/Foshan Science and Technology Bureau/
+GR  - 2220001005125/Foshan Science and Technology Bureau/
+GR  - 2220001005125/Foshan Science and Technology Bureau/
+GR  - 2220001005125/Foshan Science and Technology Bureau/
+GR  - 2220001005125/Foshan Science and Technology Bureau/
+GR  - 2220001005125/Foshan Science and Technology Bureau/
+GR  - 2220001005125/Foshan Science and Technology Bureau/
+GR  - 2220001005125/Foshan Science and Technology Bureau/
+PT  - Journal Article
+PT  - Observational Study
+DEP - 20250429
+PL  - England
+TA  - BMC Gastroenterol
+JT  - BMC gastroenterology
+JID - 100968547
+SB  - IM
+MH  - Humans
+MH  - *Gastritis, Atrophic/microbiology
+MH  - Middle Aged
+MH  - Male
+MH  - *Gastrointestinal Microbiome
+MH  - Female
+MH  - *Gastric Mucosa/microbiology
+MH  - Aged
+MH  - Adult
+MH  - Helicobacter pylori
+MH  - Chronic Disease
+MH  - *Gastritis/microbiology
+PMC - PMC12039101
+OTO - NOTNLM
+OT  - Helicobacter pylori-negative gastritis
+OT  - 16S rDNA sequencing
+OT  - Chronic atrophic gastritis
+OT  - Gastric microbiota dysbiosis
+OT  - Metabolic prediction
+COIS- Declarations. Ethical approval and consent to participate: This study was 
+      conducted in accordance with the ethical principles of the Declaration of 
+      Helsinki (2013 version). The study protocol obtained prior approval from the 
+      Ethics Committee of Foshan Hospital of Traditional Chinese Medicine (Approval No. 
+      KY[2022]165). Written informed consent was obtained from all individual 
+      participants after they were fully informed about the study purpose, procedures, 
+      and potential risks (in accordance with Declaration of Helsinki paragraphs 15, 
+      22–24). Consent for publication: Not applicable. Competing interests: The authors 
+      declare no competing interests. Repositories: All sequencing results were 
+      submitted to NCBI with PRJNA1113136 (RUN37597816–RUN37597852). This database is 
+      now accessible, allowing you to link to the website for inquiries ( 
+      https://dataview.ncbi.nlm.nih.gov/object/PRJNA1113136?reviewer=2lj2jcepbs0ltjjp0468b9g88c 
+      ).
+EDAT- 2025/04/30 00:31
+MHDA- 2025/04/30 12:29
+PMCR- 2025/04/29
+CRDT- 2025/04/29 23:46
+PHST- 2024/06/28 00:00 [received]
+PHST- 2025/04/15 00:00 [accepted]
+PHST- 2025/04/30 12:29 [medline]
+PHST- 2025/04/30 00:31 [pubmed]
+PHST- 2025/04/29 23:46 [entrez]
+PHST- 2025/04/29 00:00 [pmc-release]
+AID - 10.1186/s12876-025-03900-4 [pii]
+AID - 3900 [pii]
+AID - 10.1186/s12876-025-03900-4 [doi]
+PST - epublish
+SO  - BMC Gastroenterol. 2025 Apr 29;25(1):304. doi: 10.1186/s12876-025-03900-4.
+
+PMID- 21714939
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20111128
+LR  - 20240317
+IS  - 1745-6150 (Electronic)
+IS  - 1745-6150 (Linking)
+VI  - 6
+DP  - 2011 Jun 30
+TI  - Telling the whole story in a 10,000-genome world.
+PG  - 34
+LID - 10.1186/1745-6150-6-34 [doi]
+AB  - BACKGROUND: Genome sequencing has revolutionized our view of the relationships 
+      among genomes, particularly in revealing the confounding effects of lateral 
+      genetic transfer (LGT). Phylogenomic techniques have been used to construct 
+      purported trees of microbial life. Although such trees are easily interpreted and 
+      allow the use of a subset of genomes as "proxies" for the full set, LGT and other 
+      phenomena impact the positioning of different groups in genome trees, confounding 
+      and potentially invalidating attempts to construct a phylogeny-based taxonomy of 
+      microorganisms. Network and graph approaches can reveal complex sets of 
+      relationships, but applying these techniques to large data sets is a significant 
+      challenge. Notwithstanding the question of what exactly it might represent, 
+      generating and interpreting a Tree or Network of All Genomes will only be 
+      feasible if current algorithms can be improved upon. RESULTS: Complex 
+      relationships among even the most-similar genomes demonstrate that proxy-based 
+      approaches to simplifying large sets of genomes are not alone sufficient to solve 
+      the analysis problem. A phylogenomic analysis of 1173 sequenced bacterial and 
+      archaeal genomes generated phylogenetic trees for 159,905 distinct homologous 
+      gene sets. The relationships inferred from this set can be heavily dependent on 
+      the inclusion of other taxa: for example, phyla such as Spirochaetes, 
+      Proteobacteria and Firmicutes are recovered as cohesive groups or split depending 
+      on the presence of other specific lineages. Furthermore, named groups such as 
+      Acidithiobacillus, Coprothermobacter and Brachyspira show a multitude of 
+      affiliations that are more consistent with their ecology than with small subunit 
+      ribosomal DNA-based taxonomy. Network and graph representations can illustrate 
+      the multitude of conflicting affinities, but all methods impose constraints on 
+      the input data and create challenges of construction and interpretation. 
+      CONCLUSIONS: These complex relationships highlight the need for an inclusive 
+      approach to genomic data, and current methods with minor alterations will likely 
+      scale to allow the analysis of data sets with 10,000 or more genomes. The main 
+      challenges lie in the visualization and interpretation of genomic relationships, 
+      and the redefinition of microbial taxonomy when subsets of genomic data are so 
+      evidently in conflict with one another, and with the "canonical" molecular 
+      taxonomy.
+FAU - Beiko, Robert G
+AU  - Beiko RG
+AD  - Faculty of Computer Science, Dalhousie University, Halifax, NS B3H 1W5 Canada. 
+      beiko@cs.dal.ca
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20110630
+PL  - England
+TA  - Biol Direct
+JT  - Biology direct
+JID - 101258412
+RN  - 0 (Bacterial Proteins)
+RN  - 0 (RNA, Ribosomal, 16S)
+SB  - IM
+MH  - Algorithms
+MH  - Archaea/classification/genetics
+MH  - Bacteria/classification/*genetics
+MH  - Bacterial Proteins/chemistry/genetics
+MH  - *Biological Evolution
+MH  - Computer Graphics
+MH  - Databases, Protein
+MH  - Gene Transfer, Horizontal
+MH  - Genomics/methods
+MH  - Metagenome
+MH  - *Phylogeny
+MH  - RNA, Ribosomal, 16S/genetics
+MH  - Sequence Alignment
+MH  - Sequence Homology, Amino Acid
+PMC - PMC3158115
+EDAT- 2011/07/01 06:00
+MHDA- 2011/12/13 00:00
+PMCR- 2011/06/30
+CRDT- 2011/07/01 06:00
+PHST- 2011/02/03 00:00 [received]
+PHST- 2011/06/30 00:00 [accepted]
+PHST- 2011/07/01 06:00 [entrez]
+PHST- 2011/07/01 06:00 [pubmed]
+PHST- 2011/12/13 00:00 [medline]
+PHST- 2011/06/30 00:00 [pmc-release]
+AID - 1745-6150-6-34 [pii]
+AID - 10.1186/1745-6150-6-34 [doi]
+PST - epublish
+SO  - Biol Direct. 2011 Jun 30;6:34. doi: 10.1186/1745-6150-6-34.
+
+PMID- 23251687
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130905
+LR  - 20211021
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 7
+IP  - 12
+DP  - 2012
+TI  - Structural and functional insights from the metagenome of an acidic hot spring 
+      microbial planktonic community in the Colombian Andes.
+PG  - e52069
+LID - 10.1371/journal.pone.0052069 [doi]
+LID - e52069
+AB  - A taxonomic and annotated functional description of microbial life was deduced 
+      from 53 Mb of metagenomic sequence retrieved from a planktonic fraction of the 
+      Neotropical high Andean (3,973 meters above sea level) acidic hot spring El 
+      Coquito (EC). A classification of unassembled metagenomic reads using different 
+      databases showed a high proportion of Gammaproteobacteria and Alphaproteobacteria 
+      (in total read affiliation), and through taxonomic affiliation of 16S rRNA gene 
+      fragments we observed the presence of Proteobacteria, micro-algae chloroplast and 
+      Firmicutes. Reads mapped against the genomes Acidiphilium cryptum JF-5, 
+      Legionella pneumophila str. Corby and Acidithiobacillus caldus revealed the 
+      presence of transposase-like sequences, potentially involved in horizontal gene 
+      transfer. Functional annotation and hierarchical comparison with different 
+      datasets obtained by pyrosequencing in different ecosystems showed that the 
+      microbial community also contained extensive DNA repair systems, possibly to cope 
+      with ultraviolet radiation at such high altitudes. Analysis of genes involved in 
+      the nitrogen cycle indicated the presence of dissimilatory nitrate reduction to 
+      N2 (narGHI, nirS, norBCDQ and nosZ), associated with Proteobacteria-like 
+      sequences. Genes involved in the sulfur cycle (cysDN, cysNC and aprA) indicated 
+      adenylsulfate and sulfite production that were affiliated to several bacterial 
+      species. In summary, metagenomic sequence data provided insight regarding the 
+      structure and possible functions of this hot spring microbial community, 
+      describing some groups potentially involved in the nitrogen and sulfur cycling in 
+      this environment.
+FAU - Jiménez, Diego Javier
+AU  - Jiménez DJ
+AD  - Colombian Center for Genomic and Bioinformatics from Extreme Environments 
+      (GeBiX), Bogotá, Colombia. djimenez1909@gmail.com
+FAU - Andreote, Fernando Dini
+AU  - Andreote FD
+FAU - Chaves, Diego
+AU  - Chaves D
+FAU - Montaña, José Salvador
+AU  - Montaña JS
+FAU - Osorio-Forero, Cesar
+AU  - Osorio-Forero C
+FAU - Junca, Howard
+AU  - Junca H
+FAU - Zambrano, María Mercedes
+AU  - Zambrano MM
+FAU - Baena, Sandra
+AU  - Baena S
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20121214
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (RNA, Ribosomal, 16S)
+RN  - 70FD1KFU70 (Sulfur)
+RN  - N762921K75 (Nitrogen)
+SB  - IM
+MH  - Bacteria/*classification/genetics
+MH  - Chloroplasts/genetics
+MH  - Ecosystem
+MH  - Gene Transfer, Horizontal
+MH  - Hot Springs/*microbiology
+MH  - *Metagenome
+MH  - Microalgae/genetics
+MH  - Nitrogen
+MH  - Plankton/*classification/genetics
+MH  - RNA, Ribosomal, 16S/genetics
+MH  - Sequence Analysis, DNA/methods
+MH  - Sulfur
+PMC - PMC3522619
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2012/12/20 06:00
+MHDA- 2013/09/06 06:00
+PMCR- 2012/12/14
+CRDT- 2012/12/20 06:00
+PHST- 2012/07/06 00:00 [received]
+PHST- 2012/11/15 00:00 [accepted]
+PHST- 2012/12/20 06:00 [entrez]
+PHST- 2012/12/20 06:00 [pubmed]
+PHST- 2013/09/06 06:00 [medline]
+PHST- 2012/12/14 00:00 [pmc-release]
+AID - PONE-D-12-19958 [pii]
+AID - 10.1371/journal.pone.0052069 [doi]
+PST - ppublish
+SO  - PLoS One. 2012;7(12):e52069. doi: 10.1371/journal.pone.0052069. Epub 2012 Dec 14.
+
+PMID- 26439295
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160809
+LR  - 20180227
+IS  - 1878-4380 (Electronic)
+IS  - 0966-842X (Linking)
+VI  - 23
+IP  - 11
+DP  - 2015 Nov
+TI  - Microbial malaise: how can we classify the microbiome?
+PG  - 671-679
+LID - S0966-842X(15)00202-4 [pii]
+LID - 10.1016/j.tim.2015.08.009 [doi]
+AB  - The names and lineages of microorganisms are critical to our understanding of the 
+      microbiome. However, microbial taxonomy and phylogeny are in perpetual flux, with 
+      emerging criteria being used to rename and reshape our views of the microbial 
+      world. Different candidate molecular and nonmolecular criteria are often broadly 
+      consistent with one another, which underpins the pluralistic approach to 
+      taxonomy. However, the taxonomic picture is clouded when underlying criteria are 
+      not in agreement, or when reference datasets contain erroneously named organisms. 
+      How does the shifting taxonomic landscape impact our interpretation of microbial 
+      communities, especially in the face of inconsistencies and errors? How can 
+      taxonomy be applied in a consistent way when different users have different 
+      requirements of the classifications that emerge? The key path forward involves 
+      finding ways to integrate conflicting taxonomic criteria, choosing the right 
+      units of analysis for microbiomic studies, and making molecular taxonomy 
+      transparent and accessible in a way that complements current genomic resources.
+CI  - Copyright © 2015 Elsevier Ltd. All rights reserved.
+FAU - Beiko, Robert G
+AU  - Beiko RG
+AD  - Faculty of Computer Science, Dalhousie University, 6050 University Avenue, PO Box 
+      15000, Halifax, Nova Scotia B3H 4R2, Canada. Electronic address: rbeiko@dal.ca.
+LA  - eng
+PT  - Journal Article
+DEP - 20151001
+PL  - England
+TA  - Trends Microbiol
+JT  - Trends in microbiology
+JID - 9310916
+RN  - 0 (RNA, Ribosomal, 16S)
+SB  - IM
+MH  - Acidithiobacillus/classification/genetics
+MH  - Bacteria/*classification/*genetics
+MH  - Classification/*methods
+MH  - Clostridium/classification/genetics
+MH  - Databases, Genetic/classification/trends
+MH  - Genetics, Microbial
+MH  - Genomics/methods
+MH  - Microbiota/*genetics
+MH  - Phylogeny
+MH  - RNA, Ribosomal, 16S/genetics
+OTO - NOTNLM
+OT  - 16S ribosomal RNA gene
+OT  - Clostridium
+OT  - genomes
+OT  - microbiome
+OT  - operational taxonomic units
+OT  - taxonomy
+EDAT- 2015/10/07 06:00
+MHDA- 2016/08/10 06:00
+CRDT- 2015/10/07 06:00
+PHST- 2015/06/19 00:00 [received]
+PHST- 2015/08/11 00:00 [revised]
+PHST- 2015/08/21 00:00 [accepted]
+PHST- 2015/10/07 06:00 [entrez]
+PHST- 2015/10/07 06:00 [pubmed]
+PHST- 2016/08/10 06:00 [medline]
+AID - S0966-842X(15)00202-4 [pii]
+AID - 10.1016/j.tim.2015.08.009 [doi]
+PST - ppublish
+SO  - Trends Microbiol. 2015 Nov;23(11):671-679. doi: 10.1016/j.tim.2015.08.009. Epub 
+      2015 Oct 1.
+
+PMID- 23087115
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130111
+LR  - 20211021
+IS  - 1098-5514 (Electronic)
+IS  - 0022-538X (Print)
+IS  - 0022-538X (Linking)
+VI  - 86
+IP  - 22
+DP  - 2012 Nov
+TI  - Complete genome sequence of temperate bacteriophage AcaML1 from the extreme 
+      acidophile Acidithiobacillus caldus ATCC 51756.
+PG  - 12452-3
+LID - 10.1128/JVI.02261-12 [doi]
+AB  - Development of reproducible genetic tools in the industrially important 
+      acidithiobacilli is urgently required. Inducible temperate phages which may be 
+      modified in vitro, propagated in suitable hosts, and used to transduce relevant 
+      genetic information to other strains and/or species are potentially valuable 
+      tools in this field of research. In order to address these current limitations, 
+      the genome sequence of an inducible temperate Myoviridae-like bacteriophage from 
+      the Acidithiobacillus caldus type strain was annotated and analyzed 
+      bioinformatically. Here, we announce the genome sequence of AcaML1 and report 
+      major findings from its annotation.
+FAU - Tapia, Pablo
+AU  - Tapia P
+AD  - Pontificia Universidad Católica de Valparaíso, Valparaíso, Chile.
+FAU - Flores, Francisco Moya
+AU  - Flores FM
+FAU - Covarrubias, Paulo C
+AU  - Covarrubias PC
+FAU - Acuña, Lillian G
+AU  - Acuña LG
+FAU - Holmes, David S
+AU  - Holmes DS
+FAU - Quatrini, Raquel
+AU  - Quatrini R
+LA  - eng
+SI  - GENBANK/JX507079
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Virol
+JT  - Journal of virology
+JID - 0113724
+RN  - 0 (DNA, Viral)
+SB  - IM
+MH  - Acidithiobacillus/*virology
+MH  - Bacteriophages/*genetics
+MH  - Computational Biology/methods
+MH  - DNA, Viral
+MH  - Databases, Genetic
+MH  - Genes, Viral
+MH  - Genetic Techniques
+MH  - *Genome, Viral
+MH  - Models, Genetic
+MH  - Molecular Sequence Data
+MH  - Multigene Family
+MH  - Sequence Analysis, DNA
+PMC - PMC3486464
+EDAT- 2012/10/23 06:00
+MHDA- 2013/01/12 06:00
+PMCR- 2013/05/01
+CRDT- 2012/10/23 06:00
+PHST- 2012/10/23 06:00 [entrez]
+PHST- 2012/10/23 06:00 [pubmed]
+PHST- 2013/01/12 06:00 [medline]
+PHST- 2013/05/01 00:00 [pmc-release]
+AID - 86/22/12452 [pii]
+AID - 02261-12 [pii]
+AID - 10.1128/JVI.02261-12 [doi]
+PST - ppublish
+SO  - J Virol. 2012 Nov;86(22):12452-3. doi: 10.1128/JVI.02261-12.
+
+PMID- 31941390
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200724
+LR  - 20200724
+IS  - 1532-4109 (Electronic)
+IS  - 0360-1234 (Linking)
+VI  - 55
+IP  - 5
+DP  - 2020
+TI  - In silico genome analysis of an acid mine drainage species, Acidiphilium 
+      multivorum, for potential commercial acetic acid production and biomining.
+PG  - 447-454
+LID - 10.1080/03601234.2019.1710985 [doi]
+AB  - The genome of Acidiphilium multivorum strain AIU 301, acidophilic, aerobic 
+      Gram-negative bacteria, was investigated for potential metabolic pathways 
+      associated with organic acid production and metal uptake. The genome was compared 
+      to other acidic mine drainage isolates, Acidiphilium cryptum JF-5 and 
+      Acidithiobacillus ferrooxidans ATCC 23270, as well as Acetobacter pasteurianus 
+      386B, which ferments cocoa beans. Plasmids between two Acidiphilium spp. were 
+      compared, and only two of the sixteen plasmids were identified as potentially 
+      similar. Comparisons of the genome size to the number of protein coding sequences 
+      indicated that A. multivorum and A. cryptum follow the line of best fit unlike A. 
+      pasteurianus 386B, which suggests that it was improperly annotated in the 
+      database. Pathways between these four species were analyzed bioinformatically and 
+      are discussed here. A. multivorum AIU 301, shares pathways with A. pasteurianus 
+      386B including aldehyde and alcohol dehydrogenase pathways, which are used in the 
+      generation of vinegar. Mercury reductase, arsenate reductase and sulfur 
+      utilization proteins were identified and discussed at length. The absence of 
+      sulfur utilization proteins from A. multivorum AIU 301 suggests that this species 
+      uses previously undefined pathways for sulfur acquisition. Bioinformatic 
+      examination revealed novel pathways that may benefit commercial fields including 
+      acetic acid production and biomining.
+FAU - Micciche, A C
+AU  - Micciche AC
+AUID- ORCID: 0000-0003-2320-5191
+AD  - Department of Food Science, Center for Food Safety, University of Arkansas, 
+      Fayetteville, Arkansas, USA.
+FAU - Barabote, R D
+AU  - Barabote RD
+AD  - Department of Biological Sciences, University of Arkansas, Fayetteville, 
+      Arkansas, USA.
+FAU - Dittoe, D K
+AU  - Dittoe DK
+AUID- ORCID: 0000-0002-5517-5794
+AD  - Department of Food Science, Center for Food Safety, University of Arkansas, 
+      Fayetteville, Arkansas, USA.
+FAU - Ricke, S C
+AU  - Ricke SC
+AUID- ORCID: 0000-0002-3584-9915
+AD  - Department of Food Science, Center for Food Safety, University of Arkansas, 
+      Fayetteville, Arkansas, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20200115
+PL  - England
+TA  - J Environ Sci Health B
+JT  - Journal of environmental science and health. Part. B, Pesticides, food 
+      contaminants, and agricultural wastes
+JID - 7607167
+RN  - 0 (Metals)
+RN  - 70FD1KFU70 (Sulfur)
+RN  - EC 1.- (Oxidoreductases)
+RN  - EC 1.16.- (mercuric reductase)
+RN  - EC 1.20.- (Arsenate Reductases)
+RN  - Q40Q9N063P (Acetic Acid)
+RN  - Acidiphilium multivorum
+SB  - IM
+MH  - Acetic Acid/*metabolism
+MH  - Acidiphilium/*genetics/metabolism
+MH  - Arsenate Reductases/genetics
+MH  - Computational Biology
+MH  - Computer Simulation
+MH  - Genome Size
+MH  - *Genome, Bacterial
+MH  - Metabolic Networks and Pathways/genetics
+MH  - Metals/metabolism
+MH  - Mining
+MH  - Oxidoreductases/genetics
+MH  - Plasmids
+MH  - Sulfur/metabolism
+OTO - NOTNLM
+OT  - Acidiphilium
+OT  - acetic acid bacteria
+OT  - biomining
+OT  - genome analysis
+OT  - in silico
+EDAT- 2020/01/17 06:00
+MHDA- 2020/07/25 06:00
+CRDT- 2020/01/17 06:00
+PHST- 2020/01/17 06:00 [pubmed]
+PHST- 2020/07/25 06:00 [medline]
+PHST- 2020/01/17 06:00 [entrez]
+AID - 10.1080/03601234.2019.1710985 [doi]
+PST - ppublish
+SO  - J Environ Sci Health B. 2020;55(5):447-454. doi: 10.1080/03601234.2019.1710985. 
+      Epub 2020 Jan 15.
+
+PMID- 17911085
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080530
+LR  - 20240324
+IS  - 1535-9476 (Print)
+IS  - 1535-9484 (Electronic)
+IS  - 1535-9476 (Linking)
+VI  - 6
+IP  - 12
+DP  - 2007 Dec
+TI  - Periplasmic proteins of the extremophile Acidithiobacillus ferrooxidans: a high 
+      throughput proteomics analysis.
+PG  - 2239-51
+AB  - Acidithiobacillus ferrooxidans is a chemolithoautotrophic acidophile capable of 
+      obtaining energy by oxidizing ferrous iron or sulfur compounds such as metal 
+      sulfides. Some of the proteins involved in these oxidations have been described 
+      as forming part of the periplasm of this extremophile. The detailed study of the 
+      periplasmic components constitutes an important area to understand the physiology 
+      and environmental interactions of microorganisms. Proteomics analysis of the 
+      periplasmic fraction of A. ferrooxidans ATCC 23270 was performed by using high 
+      resolution linear ion trap-FT MS. We identified a total of 131 proteins in the 
+      periplasm of the microorganism grown in thiosulfate. When possible, functional 
+      categories were assigned to the proteins: 13.8% were transport and binding 
+      proteins, 14.6% were several kinds of cell envelope proteins, 10.8% were involved 
+      in energy metabolism, 10% were related to protein fate and folding, 10% were 
+      proteins with unknown functions, and 26.1% were proteins without homologues in 
+      databases. These last proteins are most likely characteristic of A. ferrooxidans 
+      and may have important roles yet to be assigned. The majority of the periplasmic 
+      proteins from A. ferrooxidans were very basic compared with those of neutrophilic 
+      microorganisms such as Escherichia coli, suggesting a special adaptation of the 
+      chemolithoautotrophic bacterium to its very acidic environment. The high 
+      throughput proteomics approach used here not only helps to understand the 
+      physiology of this extreme acidophile but also offers an important contribution 
+      to the functional annotation for the available genomes of biomining 
+      microorganisms such as A. ferrooxidans for which no efficient genetic systems are 
+      available to disrupt genes by procedures such as homologous recombination.
+FAU - Chi, An
+AU  - Chi A
+AD  - Department of Biology and Cell Dynamics and Biotechnology Institute, Faculty of 
+      Sciences, University of Chile, Santiago 7800024, Chile.
+FAU - Valenzuela, Lissette
+AU  - Valenzuela L
+FAU - Beard, Simon
+AU  - Beard S
+FAU - Mackey, Aaron J
+AU  - Mackey AJ
+FAU - Shabanowitz, Jeffrey
+AU  - Shabanowitz J
+FAU - Hunt, Donald F
+AU  - Hunt DF
+FAU - Jerez, Carlos A
+AU  - Jerez CA
+LA  - eng
+GR  - R01 GM037537/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20071002
+PL  - United States
+TA  - Mol Cell Proteomics
+JT  - Molecular & cellular proteomics : MCP
+JID - 101125647
+RN  - 0 (Bacterial Proteins)
+SB  - IM
+MH  - Acidithiobacillus/*chemistry
+MH  - Bacterial Proteins/*chemistry
+MH  - Chromatography, Liquid
+MH  - Mass Spectrometry
+MH  - Periplasm/*chemistry
+MH  - *Proteomics
+PMC - PMC4631397
+MID - NIHMS732692
+EDAT- 2007/10/04 09:00
+MHDA- 2008/05/31 09:00
+PMCR- 2015/11/03
+CRDT- 2007/10/04 09:00
+PHST- 2007/10/04 09:00 [pubmed]
+PHST- 2008/05/31 09:00 [medline]
+PHST- 2007/10/04 09:00 [entrez]
+PHST- 2015/11/03 00:00 [pmc-release]
+AID - S1535-9476(20)31913-7 [pii]
+AID - 10.1074/mcp.M700042-MCP200 [doi]
+PST - ppublish
+SO  - Mol Cell Proteomics. 2007 Dec;6(12):2239-51. doi: 10.1074/mcp.M700042-MCP200. 
+      Epub 2007 Oct 2.
+
+PMID- 21282905
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110804
+LR  - 20191112
+IS  - 1349-8037 (Electronic)
+IS  - 0022-1260 (Linking)
+VI  - 56
+IP  - 6
+DP  - 2010
+TI  - Differential gene expression in response to copper in Acidithiobacillus 
+      ferrooxidans strains possessing dissimilar copper resistance.
+PG  - 491-8
+AB  - Locus afe_0454 from Acidithiobacillus ferrooxidans (At.ferrooxidans) is annotated 
+      as related to copper resistance in The Institute for Genomic Research database. 
+      In our study, two At.ferrooxidans strains, 26(#) and DC, with different levels of 
+      copper ion resistance were isolated from acid mine drainages at two major copper 
+      mines in China, and their copper-resistance capacity was determined. The 26(#) 
+      strain had a copper-tolerance level of 0.22 mol/L, whereas the DC strain had a 
+      lower copper-tolerance level of 0.04 mol/L. The mutant 26(#) was generated from 
+      strain 26(#), and its copper-tolerance level was 0.25 mol/L. Using real-time 
+      quantitative reverse transcription polymerase chain reaction, differential 
+      expression of the afe_0454 gene during copper ion stress of these three strains 
+      was investigated. The results showed that the expression of afe_0454 was 
+      increased under copper ion stress, indicating that the afe_0454 gene is sensitive 
+      to copper levels. Furthermore, the afe_0454 gene expression ratio varied in the 
+      different copper-resistant strains. Gene expression was highest in the highest 
+      copper-resistant strain. The deduced amino acid sequence of the afe_0454 gene was 
+      56.87% non-polar, indicating the AFE_0454 protein was hydrophobic. Searching with 
+      the AFE_0454 protein in The Institute for Genomic Research database showed that 
+      the structure of the copper resistance protein D (CopD), which transports copper 
+      ions outside of the cell, had the highest sequence identity (46%). Bioinformatics 
+      analysis showed that the AFE_0454 protein has eight transmembrane helixes and was 
+      predicted to be localized to the plasma membrane. These results strongly 
+      suggested that the AFE_0454 protein is likely a transmembrane protein and might 
+      be directly involved in copper ion resistance.
+FAU - Wu, Xueling
+AU  - Wu X
+AD  - School of Minerals Processing & Bioengineering, Central South University, 
+      Changsha, China. xueling0714@yahoo.com.cn
+FAU - Hu, Qi
+AU  - Hu Q
+FAU - Hou, Dongmei
+AU  - Hou D
+FAU - Miao, Bo
+AU  - Miao B
+FAU - Liu, Xueduan
+AU  - Liu X
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Japan
+TA  - J Gen Appl Microbiol
+JT  - The Journal of general and applied microbiology
+JID - 0165543
+RN  - 0 (Membrane Proteins)
+RN  - 789U1901C5 (Copper)
+SB  - IM
+MH  - Acidithiobacillus/drug effects/*genetics
+MH  - Amino Acid Sequence
+MH  - China
+MH  - Copper/*metabolism/*pharmacology
+MH  - *Drug Resistance, Bacterial
+MH  - Gene Expression
+MH  - Gene Expression Regulation, Bacterial
+MH  - Membrane Proteins/genetics/metabolism
+MH  - Mutation
+MH  - Reverse Transcriptase Polymerase Chain Reaction
+EDAT- 2011/02/02 06:00
+MHDA- 2011/08/05 06:00
+CRDT- 2011/02/02 06:00
+PHST- 2011/02/02 06:00 [entrez]
+PHST- 2011/02/02 06:00 [pubmed]
+PHST- 2011/08/05 06:00 [medline]
+AID - JST.JSTAGE/jgam/56.491 [pii]
+AID - 10.2323/jgam.56.491 [doi]
+PST - ppublish
+SO  - J Gen Appl Microbiol. 2010;56(6):491-8. doi: 10.2323/jgam.56.491.
